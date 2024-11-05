@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://exakooto.github.io/MQW/sitemap_index.txt
+Sitemap: https://exakooto.github.io/hUf/sitemap_index.txt
+Sitemap: https://exakooto.github.io/qhG/sitemap_index.txt
+Sitemap: https://exakooto.github.io/tac/sitemap_index.txt
